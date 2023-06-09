@@ -9,7 +9,7 @@ import objects.Tour;
 
 /**
  *
- * @author Doan Van Quan
+ * @author Dang Kieu Trang
  */
 public interface TourManager {
 

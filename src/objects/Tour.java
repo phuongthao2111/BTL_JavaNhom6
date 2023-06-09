@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Doan Van Quan
+ * @author Dang Kieu Trang
  */
 
 public class Tour extends Product implements TourManager, Serializable {

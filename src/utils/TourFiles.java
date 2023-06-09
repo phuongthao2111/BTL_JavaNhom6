@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Doan Van Quan
+ * @author Dang Kieu Trang
  */
 public class TourFiles {
 	// du lieu trong file co dinh dang
